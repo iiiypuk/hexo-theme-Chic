@@ -7,16 +7,16 @@
 > Chic, French word meaning 'Elegant' in English.
 
 <p align="center">
-<img alt="Author" src="https://img.shields.io/badge/Author-Sirice-lightgray.svg"/>
-<img alt="Node" src="https://img.shields.io/badge/Node-6.0%2B-43853d.svg"/>
-<img alt="Hexo" src="https://img.shields.io/badge/Hexo-3.0+-0e83cd.svg"/>
-<img alt="Device" src="https://img.shields.io/badge/Device-responsive-orange.svg"/>
-<img alt="Build Status" src="https://img.shields.io/badge/build-passing-brightgreen"/>
+<img alt="Author" src="https://img.shields.io/badge/Author-Sirice-lightgray.svg?style=for-the-badge"/>
+<img alt="Editor" src="https://img.shields.io/badge/Editor-iiiypuk-lightgray.svg?style=for-the-badge"/>
+<img alt="Node" src="https://img.shields.io/badge/Node-6.0%2B-43853d.svg?style=for-the-badge"/>
+<img alt="Hexo" src="https://img.shields.io/badge/Hexo-3.0+-0e83cd.svg?style=for-the-badge"/>
+<img alt="Device" src="https://img.shields.io/badge/Device-responsive-orange.svg?style=for-the-badge"/>
+<img alt="Build Status" src="https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge"/>
 </p>
 
 ## Documentation language
 
-- [中文文档](README-CN.md)
 - [English](README.md)
 
 ## Contents
@@ -32,7 +32,7 @@
   - [Image-title](#image-title)
 - [Customize](#customize)
 - [FAQ](#faq)
-- [Gallary](#gallary)
+- [Gallery](#gallery)
 - [LICENSE](#license)
 
 
@@ -41,7 +41,7 @@ An elegant, powerful, easy-to-read Hexo theme.
 
 ## Demo
 - [Demo site](https://siricee.github.io/hexo-theme-Chic)
-- <del>[Author's blog](https://siricee.github.io/)</del> (*Not using Hexo currently*)
+- [Author's blog](https://iiiypuk.me/)
 
 ## Features
 - Appropriate blank blocks, elegant but not simple.
@@ -60,7 +60,7 @@ An elegant, powerful, easy-to-read Hexo theme.
 
 ```bash
 cd your-blog/themes
-git clone https://github.com/Siricee/hexo-theme-Chic.git Chic
+git clone https://github.com/iiiypuk/hexo-theme-Chic.git Chic
 # Modify theme setting in _config.yml to Chic.
 ```
 
@@ -139,7 +139,7 @@ post_copyright_enable: true
 post_copyright_author_enable: true
 post_copyright_permalink_enable: true
 post_copyright_license_enable: true
-post_copyright_license_text: Copyright (c) 2019 <a href="http://creativecommons.org/licenses/by-nc/4.0/">CC-BY-NC-4.0</a> LICENSE
+post_copyright_license_text: Copyright (c) 2021 <a href="http://creativecommons.org/licenses/by-nc/4.0/">CC-BY-NC-4.0</a> LICENSE
 post_copyright_slogan_enable: true
 post_copyright_slogan_text: Do you believe in <strong>DESTINY<strong>?
 ## toc
@@ -223,7 +223,7 @@ mathjax:
     ```yaml
     ---
     title: MathJax Test
-    date: 2019-07-05 21:27:59
+    date: 2021-01-05 21:27:59
     tags:
     mathjax: true # add this statement, MathJax will be enabled in this post.
     ---
@@ -306,6 +306,6 @@ You can preview image-title and sample code in [Demo site](https://siricee.githu
 ![smartmockups_jwrd9y4r.png](https://i.loli.net/2019/06/12/5d00a085ec26284832.png)
 
 ## LICENSE
-Chic © [@Sirice](https://github.com/Siricee)
+Chic © [@Sirice](https://github.com/Siricee), modified [@iiiypuk]
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
