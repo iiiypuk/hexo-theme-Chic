@@ -306,6 +306,6 @@ You can preview image-title and sample code in [Demo site](https://siricee.githu
 ![smartmockups_jwrd9y4r.png](https://i.loli.net/2019/06/12/5d00a085ec26284832.png)
 
 ## LICENSE
-Chic © [@Sirice](https://github.com/Siricee), modified [@iiiypuk]
+Chic © [@Sirice](https://github.com/Siricee), modified [@iiiypuk](https://github.com/iiiypuk)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
