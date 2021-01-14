@@ -32,24 +32,19 @@ links:
   # Trophy:
   # Gallery:
   # RSS:
-  # AliPay:
-  ZhiHu: https://www.zhihu.com/people/sirice
   # LinkedIn:
   # FaceBook:
-  # Twitter:
+  Twitter:
+  VK: https://vk.com/0xi3k
+  ICQ: https://icq.im/173924
   # Skype:
-  # CodeSandBox:
   # CodePen:
   # Sketch:
   # Gitlab:
-  # Dribbble:
   Instagram:
   Reddit:
   # YouTube:
-  # QQ:
-  # Weibo:
-  # WeChat:
-  Github: https://github.com/Siricee
+  Github: https://github.com/iiiypuk
 
 # how links show: you have 2 choice--text or icon.
 links_text_enable: false
